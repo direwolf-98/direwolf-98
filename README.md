@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @direwolf-98
+- 👋 Hi, I’m ASHWIN M
 - 👀 I’m interested in this very much wide IT industry to work in
 - 🌱 I’m currently learning full stack devolopment on python with HTML, CSS and JavaScript
 - 📫 Reach me on hashwin966@gmail.com
